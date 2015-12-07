@@ -15,8 +15,8 @@ Assignment:
 --------
 
 Normal: 
-1. Work through Units 1 & 2 [here](https://www.codecademy.com/en/skills/make-an-interactive-website)
 
+1. Work through Units 1 & 2 [here](https://www.codecademy.com/en/skills/make-an-interactive-website)
 2. Just like we did in C#, do these in javascript
   1. Assign "Hello World" to a variable message
   1. Assign a different string to a different variable
