@@ -24,7 +24,7 @@ Normal:
   1. Use string interpolation'ish to display the number in a string
   1. Make an array of your favorite movies or books or bands.  Have at least 4 values.
 
-Submit #2 via a link to [CodePen.io](http://codepen.io/). 
+Submit #2 via a link to [Jsbin.io](http://jsbin.io/). In other words, write the javascript for #2 in the codepen.io 'JS' part. I recommend doing Console.Log() for each variable so you can see it in the console. [Example](https://jsbin.com/kugedufoni/edit?js,console).
 
 Hard Mode:
 1. Work through Units 3,4 & 5 [here](https://www.codecademy.com/en/skills/make-an-interactive-website)
